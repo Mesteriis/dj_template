@@ -1,0 +1,1 @@
+__PROD_SERVER_IP = '{{PROD_SERVER_IP}}'
